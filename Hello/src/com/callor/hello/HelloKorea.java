@@ -15,4 +15,13 @@ package com.callor.hello;
  */
 public class HelloKorea { // block 은 blade(중괄호)로 시작
 
-}// end HelloKorea block, blade 는 반드시 쌍을 이루어야 한다.
+	/*
+	 *	main method 
+	 *  main method 는 명령문 그룹의 규칙이 정해져 있다
+	 *  진입점, 시작점 method 라고 한다
+	 *  java로 만든 코드가 시작되는 곳이다
+	 */
+	public static void main(String [] args) {
+		
+	}
+} // end HelloKorea block, blade 는 반드시 쌍을 이루어야 한다.
