@@ -25,7 +25,7 @@ public class NumberOperator {
 		
 		/*
 		 *	코드에서 사용하는 숫자는 정수와 실수가 있고
-		 *	큰 정수(int, Integer)와 작은 정수(Long)
+		 *	큰 정수(Long)와 작은 정수(int, Integer)
 		 *	배정도(double)(긴 정밀도) 실수, 단정도(float)(짧은 정밀도) 실수가 있다
 		 */ 
 		
